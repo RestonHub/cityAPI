@@ -29,7 +29,7 @@ build:
     - npm-install
 
     - script:
-        name: run the app
+        name: run app
         code: |
            node --version
 
